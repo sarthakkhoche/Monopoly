@@ -10,7 +10,7 @@ A Python based take on the all-time classic board game 'Monopoly' using the pyga
   ```
   
 # Images of the Game Play
-![alt text](http://home/sarthak/Downloads/home.png)
-![alt text](http://home/sarthak/Downloads/game.png)
+![Game Home Image](https://github.com/SarthakKhoche/Monopoly/home.png)
+![Game Play Image](https://github.com/SarthakKhoche/Monopoly/game.png)
 
 
