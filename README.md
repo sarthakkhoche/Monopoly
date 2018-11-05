@@ -8,3 +8,9 @@ A Python based take on the all-time classic board game 'Monopoly' using the pyga
   ```
   python Monopoly.py
   ```
+  
+# Images of the Game Play
+![alt text](http://home/sarthak/Downloads/home.png)
+![alt text](http://home/sarthak/Downloads/game.png)
+
+
