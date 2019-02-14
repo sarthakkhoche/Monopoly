@@ -14,4 +14,9 @@ A Python based take on the all-time classic board game 'Monopoly' using the pyga
 
 ![Game Play Image](https://github.com/SarthakKhoche/Monopoly/blob/master/game.png)
 
+### Contributors
+
+- [Bishal Pandia](https://github.com/Bishal-Pandia)
+- [Sarthak Khoche](https://github.com/SarthakKhoche/)
+
 
